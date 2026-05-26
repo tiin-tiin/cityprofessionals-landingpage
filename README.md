@@ -108,6 +108,12 @@ To deploy your own instance:
 
 ---
 
+## Acknowledgements
+
+- **Loading Animation:** [Nattu Adnan](https://lottiefiles.com/free-animation/servishero-loading-sCzixdworb)
+
+---
+
 ## License & Rights
 
 © 2026 City Professionals. All rights reserved.
