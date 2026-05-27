@@ -111,6 +111,9 @@ To deploy your own instance:
 ## Acknowledgements
 
 - **Loading Animation:** [Nattu Adnan](https://lottiefiles.com/free-animation/servishero-loading-sCzixdworb)
+- **Packing Animation:** [Emas Didik Prasetyo](https://lottiefiles.com/free-animation/packaging-in-progress-jIncKQ0C3m)
+- **Cleaning Animation:** [Eray Asena](https://lottiefiles.com/free-animation/wipe-clean-icon-j5ozerM44m)
+- **Pest Control Animation:** [Valeria Guerra](https://lottiefiles.com/free-animation/spray-covid-hHCgZSK5PN)
 
 ---
 
